@@ -1,0 +1,9 @@
+[package]
+name = "nn"
+description = "Simple Neural Network rust library"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+
+[dependencies]
+rand = "0.8.4"
